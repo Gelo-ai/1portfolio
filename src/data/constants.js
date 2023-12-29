@@ -551,7 +551,7 @@ export const Bio = {
         
       ],
       // category: "web app",
-      github: "https://github.com/Gelo-ai/simplersvp",
+      github: "https://github.com/gelogonza/simplersvp",
       // webapp: "https://trackify.duckdns.org",
     },
     {
