@@ -10,7 +10,7 @@ export const Bio = {
       "I am a Junior majoring in Computer Science at the University of Louisville. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
     github: "https://github.com/Gelo-ai",
     resume:
-      "https://drive.google.com/file/d/11lSlsspn3UxPdX0-b_RJkON3kyAQ6z_m/view?usp=sharing",
+      "https://drive.google.com/file/d/1eFf5gUeOa32k6xiSKbkiUH1G2DIhl3oa/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/angelo-gonza/",
     insta: "https://www.instagram.com/gelo.gonza/",
   };
@@ -221,7 +221,7 @@ export const Bio = {
       id: 0,
       // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
       school: "University of Louisville",
-      date: "August 2022 - May 2026",
+      date: "August 2024 - May 2026",
       // grade: "8.71 CGPA",
       desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at the University of Louisville. I have taken courses like Data Structures, Mobile Development, and Algorithms.",
       degree: "Bachelor of Science in Computer Science",
@@ -568,7 +568,7 @@ export const Bio = {
         "Netlify",
       ],
       // category: "web app",
-      github: "https://github.com/JeriahM/DataStructuresProject/tree/main",
+      github: "https://github.com/gelogonza/AngeloLink",
       // webapp: "https://trackify.duckdns.org",
     },
   ];
