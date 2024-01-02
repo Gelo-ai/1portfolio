@@ -8,7 +8,7 @@ export const Bio = {
     ],
     description:
       "I am a Junior majoring in Computer Science at the University of Louisville. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
-    github: "https://github.com/Gelo-ai",
+    github: "https://github.com/gelogonza",
     resume:
       "https://drive.google.com/file/d/1eFf5gUeOa32k6xiSKbkiUH1G2DIhl3oa/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/angelo-gonza/",
@@ -551,7 +551,7 @@ export const Bio = {
         
       ],
       // category: "web app",
-      github: "https://github.com/Gelo-ai/simplersvp",
+      github: "https://github.com/gelogonza/simplersvp",
       // webapp: "https://trackify.duckdns.org",
     },
     {
