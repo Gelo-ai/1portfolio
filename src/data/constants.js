@@ -7,7 +7,7 @@ export const Bio = {
       "Programmer"
     ],
     description:
-      "I am a Junior majoring in Computer Science at the University of Louisville. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
+      "I am a Sophomore majoring in Computer Science at Ivy Tech, with plans to transfer to the University of Louisville to finish my degree. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
     github: "https://github.com/gelogonza",
     resume:
       "https://drive.google.com/file/d/1eFf5gUeOa32k6xiSKbkiUH1G2DIhl3oa/view?usp=sharing",
@@ -227,8 +227,8 @@ export const Bio = {
       school: "Ivy Tech Community College, Sellersburg",
       date: "January 2023 - May 2024",
       // grade: "8.71 CGPA",
-      desc: "Throughout high school, I was enrolled in the Ivy Tech Community College dual-credit program. I completed 30 credit hours of college courses, which led me into college as a Sophomore in credits. I have also relevant classes such as Software Development in Python, Computing Logic, and Computer Science 1 in C++.",
-      degree: "Statewide Transfer General Education Core",
+      desc: "Throughout high school, I was enrolled in the Ivy Tech Community College dual-credit program. I completed 30 credit hours of college courses, which led me into college as a Sophomore in credits. I have also taken relevant classes such as Software Development in Python, Computing Logic, and Computer Science 1 in C++.",
+      degree: "Statewide Transfer General Education Core", "AS in Computer Science"
     },
     {
       id: 2,
