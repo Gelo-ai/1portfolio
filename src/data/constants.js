@@ -228,7 +228,7 @@ export const Bio = {
       date: "January 2023 - May 2024",
       // grade: "8.71 CGPA",
       desc: "Throughout high school, I was enrolled in the Ivy Tech Community College dual-credit program. I completed 30 credit hours of college courses, which led me into college as a Sophomore in credits. I have also taken relevant classes such as Software Development in Python, Computing Logic, and Computer Science 1 in C++.",
-      degree: "Statewide Transfer General Education Core", "AS in Computer Science",
+      degree: "Statewide Transfer General Education Core", 
     },
     {
       id: 2,
