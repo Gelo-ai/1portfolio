@@ -137,7 +137,7 @@ export const Bio = {
       // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
       role: "Computer Science 1",
       company: "Ivy Tech Community College",
-      date: "JAugust 2023 - December 2023",
+      date: "August 2023 - December 2023",
       desc: "Learned the basics of C++ and how to code simple programs. I also learned about the basics of Object-Oriented Programming.",
       skills: [
         "C++",
@@ -145,6 +145,39 @@ export const Bio = {
         "Data Structures"
       ],
       // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+      {
+      id: 0,
+      // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+      role: "Computer Science 2",
+      company: "Ivy Tech Community College",
+      date: "January 2024 - May 2024",
+      desc: "Expanded upon existing C++ knowledge and learned about object oriented programming using C++. In this class I learned about classes, objects, inheritance, polymorphism, operator overloading, exception handling, recursion, streams and file I/O.",
+      skills: [
+        "C++",
+        "Object-oriented programming",
+        "Software engineering",
+        "Debugging",
+        "Code review",
+        "Software reuse",
+      ],
+        // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+      {
+      id: 0,
+      // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+      role: "Software Development in Python",
+      company: "Ivy Tech Community College",
+      date: "January 2024 - May 2024",
+      desc: "Learned fundamental and advanced concepts of Python. Focused on creating industry standard programs, and learned about data structures. Also, learned about object-oriented programming.",
+      skills: [
+        "Python",
+        "NoSQL",
+        "Software engineering",
+        "Big O",
+        "Data Structures",
+        "XML/YAML",
+        "JSON",
+      ],
+        // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",    
     },
     // {
     //   id: 1,
