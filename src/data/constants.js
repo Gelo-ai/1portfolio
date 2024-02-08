@@ -10,7 +10,7 @@ export const Bio = {
       "I am a Sophomore majoring in Computer Science at Ivy Tech, with plans to transfer to the University of Louisville to finish my degree. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
     github: "https://github.com/gelogonza",
     resume:
-      "https://drive.google.com/file/d/15HZpfigzQ1ur-dB-r1IMs5YGAU56BxQi/view?usp=sharing",
+      "https://drive.google.com/file/d/1bq8YNNYPg1PySQurNQn7Qs_TWwQ9K0r-/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/angelo-gonza/",
     insta: "https://www.instagram.com/gelo.gonza/",
   };
