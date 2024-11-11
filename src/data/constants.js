@@ -501,7 +501,7 @@ export const Bio = {
         "Netlify",
       ],
       // category: "web app",
-      github: "https://github.com/gelogonza/AngeloLink",
+      github: "https://angelo-links.netlify.app/",
       // webapp: "https://trackify.duckdns.org",
     },
       {
@@ -519,7 +519,7 @@ export const Bio = {
         "Django",
       ],
       // category: "web app",
-      github: "https://github.com/gelogonza/AngeloLink",
+      github: "https://github.com/gelogonza/Syro",
       // webapp: "https://trackify.duckdns.org",
     },
       {
@@ -537,7 +537,7 @@ export const Bio = {
         "VS Code",
       ],
       // category: "web app",
-      github: "https://github.com/gelogonza/AngeloLink",
+      github: "https://github.com/gelogonza/FitnessTracker",
       // webapp: "https://trackify.duckdns.org",
     },
   ];
