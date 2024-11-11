@@ -546,7 +546,7 @@ export const Bio = {
       date: "January 2024 - Current",
       description:
         "Built a full-featured Discord bot used by over 20 users, providing music streaming, server management, and user interaction features.",
-        "Integrated music streaming functions and developed user management commands for a comprehensive server management toolkit.",
+        "Integrated music streaming functions and developed user management commands for a comprehensive server management toolkit.":
         "Integrated real-time latency feedback and self-assignable roles to streamline server management.",
       // image:
       //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
