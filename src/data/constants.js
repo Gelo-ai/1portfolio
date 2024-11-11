@@ -7,11 +7,7 @@ export const Bio = {
       "Programmer"
     ],
     description:
-<<<<<<< HEAD
       "I am a Junior majoring in Computer Science at Indiana University Bloomington. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
-=======
-      "I am a Sophomore majoring in Computer Science at Ivy Tech, with plans to transfer to Indiana University Indianapolis to finish my degree. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
->>>>>>> 75ae5d0616988edc886b3a20f8221e94effc0146
     github: "https://github.com/gelogonza",
     resume:
       "https://drive.google.com/file/d/1bq8YNNYPg1PySQurNQn7Qs_TWwQ9K0r-/view?usp=sharing",
@@ -257,11 +253,7 @@ export const Bio = {
       school: "Indiana University Bloomington",
       date: "August 2024 - May 2026",
       // grade: "8.71 CGPA",
-<<<<<<< HEAD
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Indiana University. I have taken courses like Data Structures, Discrete Math, Web Development, and Algorithms.",
-=======
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science at IU Bloomington. I have taken courses like Data Structures, Mobile Development, and Algorithms.",
->>>>>>> 75ae5d0616988edc886b3a20f8221e94effc0146
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science at Indiana University. I have taken courses like Data Structures, Discrete Math, Web Development, and Algorithms.",
       degree: "Bachelor of Science in Computer Science",
     },
     {
