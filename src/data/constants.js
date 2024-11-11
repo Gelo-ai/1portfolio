@@ -551,9 +551,8 @@ export const Bio = {
       // image:
       //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
       tags: [
-        "CSS",
         "HTML",
-        "C++",
+        "Javascript",
         "VS Code",
       ],
       // category: "web app",
