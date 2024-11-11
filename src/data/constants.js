@@ -7,7 +7,11 @@ export const Bio = {
       "Programmer"
     ],
     description:
+<<<<<<< HEAD
       "I am a Junior majoring in Computer Science at Indiana University Bloomington. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
+=======
+      "I am a Sophomore majoring in Computer Science at Ivy Tech, with plans to transfer to Indiana University Indianapolis to finish my degree. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
+>>>>>>> 75ae5d0616988edc886b3a20f8221e94effc0146
     github: "https://github.com/gelogonza",
     resume:
       "https://drive.google.com/file/d/1bq8YNNYPg1PySQurNQn7Qs_TWwQ9K0r-/view?usp=sharing",
@@ -253,7 +257,11 @@ export const Bio = {
       school: "Indiana University Bloomington",
       date: "August 2024 - May 2026",
       // grade: "8.71 CGPA",
+<<<<<<< HEAD
       desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Indiana University. I have taken courses like Data Structures, Discrete Math, Web Development, and Algorithms.",
+=======
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science at IU Bloomington. I have taken courses like Data Structures, Mobile Development, and Algorithms.",
+>>>>>>> 75ae5d0616988edc886b3a20f8221e94effc0146
       degree: "Bachelor of Science in Computer Science",
     },
     {
@@ -262,7 +270,7 @@ export const Bio = {
       school: "Ivy Tech Community College, Sellersburg",
       date: "January 2023 - May 2024",
       // grade: "8.71 CGPA",
-      desc: "Throughout high school, I was enrolled in the Ivy Tech Community College dual-credit program. I completed 30 credit hours of college courses, which led me into college as a Sophomore in credits. I have also taken relevant classes such as Software Development in Python, Computing Logic, and Computer Science 1 in C++.",
+      desc: "Throughout high school, I was enrolled in the Ivy Tech Community College dual-credit program. I completed 30 credit hours of college courses, which led me into college as a Sophomore in credits. I have also taken relevant classes such as Software Development in Python, Computing Logic, Computer Science 1 in C++, Computer Science 2, and Discrete Logic.",
       degree: "Statewide Transfer General Education Core", 
     },
     // {
@@ -499,6 +507,42 @@ export const Bio = {
         "CSS",
         "HTML",
         "Netlify",
+      ],
+      // category: "web app",
+      github: "https://github.com/gelogonza/AngeloLink",
+      // webapp: "https://trackify.duckdns.org",
+    },
+      {
+      id: 8,
+      title: "Syro",
+      date: "January 2024 - Current",
+      description:
+        "Designed and developed a Music app using Spotify API that allows users to make playlists, view data, control playback on their devices, download music, play music that is downloaded locally, and view other peoples pages with more details and insights",
+      // image:
+      //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      tags: [
+        "CSS",
+        "HTML",
+        "Python",
+        "Django",
+      ],
+      // category: "web app",
+      github: "https://github.com/gelogonza/AngeloLink",
+      // webapp: "https://trackify.duckdns.org",
+    },
+      {
+      id: 9,
+      title: "TrackIt",
+      date: "January 2024 - Current",
+      description:
+        "Developed a simple fitness/calorie tracker app. Allows for profiles to be made, tracking fitness, food intake, caloric intake, recommendations to burn more calories, exercises, and recipe recommendations as well.",
+      // image:
+      //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      tags: [
+        "CSS",
+        "HTML",
+        "C++",
+        "VS Code",
       ],
       // category: "web app",
       github: "https://github.com/gelogonza/AngeloLink",
