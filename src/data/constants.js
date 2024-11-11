@@ -7,10 +7,10 @@ export const Bio = {
       "Programmer"
     ],
     description:
-      "I am a Sophomore majoring in Computer Science at Ivy Tech, with plans to transfer to the University of Louisville to finish my degree. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
+      "I am a Junior majoring in Computer Science at Indiana University Bloomington. Since I have started programming, I have built a strong foundation in many areas of software development. I have developed an interest in full-stack development, but I also enjoy front-end development too. I look forward to utilizing this technical knowledge and my creative problem-solving abilities to develop innovative solutions in a challenging role in software development, project management, or ui/ux design.",
     github: "https://github.com/gelogonza",
     resume:
-      "https://drive.google.com/file/d/15HZpfigzQ1ur-dB-r1IMs5YGAU56BxQi/view?usp=sharing",
+      "https://drive.google.com/file/d/1bq8YNNYPg1PySQurNQn7Qs_TWwQ9K0r-/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/angelo-gonza/",
     insta: "https://www.instagram.com/gelo.gonza/",
   };
@@ -250,10 +250,10 @@ export const Bio = {
     {
       id: 0,
       // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-      school: "University of Louisville",
+      school: "Indiana University Bloomington",
       date: "August 2024 - May 2026",
       // grade: "8.71 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at the University of Louisville. I have taken courses like Data Structures, Mobile Development, and Algorithms.",
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Indiana University. I have taken courses like Data Structures, Discrete Math, Web Development, and Algorithms.",
       degree: "Bachelor of Science in Computer Science",
     },
     {
@@ -265,15 +265,15 @@ export const Bio = {
       desc: "Throughout high school, I was enrolled in the Ivy Tech Community College dual-credit program. I completed 30 credit hours of college courses, which led me into college as a Sophomore in credits. I have also taken relevant classes such as Software Development in Python, Computing Logic, and Computer Science 1 in C++.",
       degree: "Statewide Transfer General Education Core", 
     },
-    {
-      id: 2,
-      // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "New Albany High School",
-      date: "August 2016 - May 2020",
-      // grade: "88.2%",
-      desc: "I completed my high school education at New Albany High School. Here, I was enrolled in many AP courses and Dual-credit classes. I was also part of the Cross Country and Track and Field teams all four years. I was also a member of the student council.",
-      degree: "Core 40 with Technical and Academic Honors",
-    },
+    // {
+    //   id: 2,
+    //   // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    //   school: "New Albany High School",
+    //   date: "August 2016 - May 2020",
+    //   // grade: "88.2%",
+    //   desc: "I completed my high school education at New Albany High School. Here, I was enrolled in many AP courses and Dual-credit classes. I was also part of the Cross Country and Track and Field teams all four years. I was also a member of the student council.",
+    //   degree: "Core 40 with Technical and Academic Honors",
+    // },
   ];
   
   // export const projects = [
